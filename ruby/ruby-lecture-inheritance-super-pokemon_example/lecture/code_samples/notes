@@ -1,0 +1,9 @@
+initialize method same with different values for instance variables
+
+attack strenght is different in the init
+
+both have fight method but implementation is different
+
+move/whoami is exactly the same
+
+squirtle has positive_x method

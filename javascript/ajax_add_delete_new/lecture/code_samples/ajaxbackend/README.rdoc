@@ -1,0 +1,8 @@
+For this rails app to serve data from a different origin
+For example an index.html script that sends an ajax request to this server
+
+look at application.rb
+chrome's same origin policy requires these headers be set by the server
+
+run rake db:migrate
+rake db:seed
